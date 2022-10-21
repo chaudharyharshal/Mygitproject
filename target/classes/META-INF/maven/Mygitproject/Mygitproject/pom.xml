@@ -3,11 +3,7 @@
   <groupId>Mygitproject</groupId>
   <artifactId>Mygitproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <properties>
+   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-  <plugin>
-    <artifactId>maven-war-plugin</artifactId>
-    <version>3.3.1</version>
-</plugin>
+   </properties>
 </project>
